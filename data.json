@@ -1,0 +1,54 @@
+{
+  "card1":[{
+    "image":"profile.png",
+    "name":"Gayathri",
+    "branch":"It",
+    "profile":"profile"
+  },
+  {
+    "image":"profile.png",
+    "name":"Thanmai",
+    "branch":"It",
+    "profile":"profile"
+  }],
+  "personalDetails":{
+    "image":"profile.png",
+    "myname":"Gayathri",
+    "department":"Btech",
+    "fname":"d/o Balaji",
+    "email":"gayatri@gmail.com",
+    "phno":"999999934",
+    "address":"medarametla"
+  },
+    "Qualifications":[{
+    "Qualification":"Btech",
+    "percentage":"80%"
+  },
+  {
+    "Qualification":"Intermediate",
+    "percentage":"90%"
+  },
+  {
+    "Qualification":"10th",
+    "percentage":"80%"
+  }],
+    "Internship":{
+    "ob1":"Internship:",
+    "Internship":"Web Development Intern",
+    "ins":"Knowledge Matrix (India) Pvt Ltd, Hyderabad"
+  },
+    "Project":{
+      "ob2":"Acheivement:",
+    "acheivement":"Developed a music player with Android studio"
+  },
+  "Skills":{
+    "ob3":"Technical Skills:",
+ "Technicalskills":"Languages Core:Java, Python"
+},
+"Otherinformation":{
+  "ob4":"TrainingsWorkshops:",
+"TrainingsWorkshops":"Attended online training on Android App Development by Internshala Trainings",
+ "ob5":"Personaltraits:",
+"ob6":"Analytical Skills,Passion towards coding"
+  }
+}
